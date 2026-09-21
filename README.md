@@ -49,7 +49,6 @@
 Bash
 
 # Пример блока конфигурации внутри скрипта
-    ```bash
     BACKUP_DIR="/var/backups"
     RETENTION_DAYS=7
     LOG_FILE="/var/log/backup.log"
